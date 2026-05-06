@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "outreach-hub",
+  "compatibility_date": "2026-05-06",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "Outreach Hub"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
